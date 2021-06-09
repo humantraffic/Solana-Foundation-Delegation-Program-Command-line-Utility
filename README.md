@@ -17,7 +17,7 @@
 
 7) закидываем 0,002 SOL на тестовый адрес
 
-8) если ваш тестовый ключ имеею название validator-keypair.json
+8) если ваш тестовый ключ имеет название validator-keypair.json
 
 ```solana-foundation-delegation-program apply --mainnet mainnet-validator-keypair.json --testnet validator-keypair.json --confirm```
 
