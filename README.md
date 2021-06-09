@@ -11,7 +11,9 @@
 
 5) ```cargo install solana-foundation-delegation-program-cli```
 
-6) ```solana-keygen new -o mainnet-validator-keypair.json```
+6) Создаем ключ для мейна
+
+ ```solana-keygen new -o mainnet-validator-keypair.json```
 
 7) закидываем 0,002 SOL на тестовый адрес
 
