@@ -4,6 +4,7 @@
 2) ```sudo apt-get -y install libssl-dev libudev-dev pkg-config zlib1g-dev llvm clang make```
 
 3) ```curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh```
+
 выбираем 1 опцию
 
 4) ```source $HOME/.cargo/env```
