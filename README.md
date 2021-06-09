@@ -22,4 +22,5 @@
 ```solana-foundation-delegation-program apply --mainnet mainnet-validator-keypair.json --testnet validator-keypair.json --confirm```
 
 9) Проверяем статус
+
 ```solana-foundation-delegation-program status mainnet-validator-keypair.json```
